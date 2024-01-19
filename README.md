@@ -17,3 +17,9 @@ This web application is designed to manage tasks efficiently and effectively. It
 
 ## Setup and Installation
 1. Clone the repository:
+
+## Live Application
+
+The Task Master Web App is currently live and can be viewed [here](https://taskmasterappflaskcrud-0e646cae0381.herokuapp.com/).
+
+Experience the application and manage your tasks effectively.
